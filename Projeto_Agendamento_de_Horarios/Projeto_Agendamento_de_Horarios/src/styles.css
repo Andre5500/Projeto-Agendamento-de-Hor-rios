@@ -1,0 +1,37 @@
+/* styles.css */
+
+/* Estilos para os componentes de cadastro */
+/* Aqui você pode adicionar estilos específicos para cada componente */
+
+/* Estilos para a tela principal (App) */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center; 
+  }
+  
+  /* Estilos para os botões */
+  button {
+    padding: 8px 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+ 
